@@ -28,9 +28,9 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun \[Linkedin](htt
 
 <a href="https://github.com/penuliscode">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode\&show\_icons=true\&theme=algolia\&include\_all\_commits=true\&count\_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lutfibintoro\&show\_icons=true\&theme=algolia\&include\_all\_commits=true\&count\_private=true"/>
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode\&layout=compact\&layout=compact\&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lutfibintoro\&layout=compact\&layout=compact\&theme=algolia"/>
 
 </a>
 
