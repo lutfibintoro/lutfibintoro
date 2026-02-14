@@ -1,38 +1,70 @@
-\# Halo semua! 
+\[!\[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfibintoro)](https://github.com/lutfibintoro/github-readme-stats)
 
- 
+!\[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&hide=contribs,prs)
 
-Perkenalkan nama saya \*\*Gilang Ramadhan\*\*.<br>
+!\[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show=reviews,discussions\_started,discussions\_answered,prs\_merged,prs\_merged\_percentage)
 
- 
+!\[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true)
 
-Saya seorang \*\*Curriculum Developer\*\* di \[Dicoding](https://www.dicoding.com/).<br>
+!\[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&commits\_year=2020)
 
- 
+!\[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true\&theme=radical)
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali \[sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+!\[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true\&theme=transparent)
 
- 
+!\[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true\&bg\_color=00000000)
 
-Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+\[!\[Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/lutfibintoro/github-readme-stats#gh-dark-mode-only)
 
- 
+\[!\[Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true\&theme=default#gh-light-mode-only)](https://github.com/lutfibintoro/github-readme-stats#gh-light-mode-only)
 
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun \[Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
+<picture>
 
- 
+&nbsp; <source
 
-\### Github Statistic
+&nbsp;   srcset="https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true\&theme=dark"
 
-<p align="left">
+&nbsp;   media="(prefers-color-scheme: dark)"
 
-<a href="https://github.com/penuliscode">
+&nbsp; />
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lutfibintoro\&show\_icons=true\&theme=algolia\&include\_all\_commits=true\&count\_private=true"/>
+&nbsp; <source
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lutfibintoro\&layout=compact\&layout=compact\&theme=algolia"/>
+&nbsp;   srcset="https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true"
 
-</a>
+&nbsp;   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 
-</p>
+&nbsp; />
+
+&nbsp; <img src="https://github-readme-stats.vercel.app/api?username=lutfibintoro\&show\_icons=true" />
+
+</picture>
+
+\[!\[Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lutfibintoro\&repo=github-readme-stats)](https://github.com/lutfibintoro/github-readme-stats)
+
+\[!\[Gist Card](https://github-readme-stats.vercel.app/api/gist?id=bbfce31e0217a3689c8d961a356cb10d)](https://gist.github.com/Yizack/bbfce31e0217a3689c8d961a356cb10d/)
+
+\[!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro)](https://github.com/lutfibintoro/github-readme-stats)
+
+!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&size\_weight=0.5\&count\_weight=0.5)
+
+!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&exclude\_repo=github-readme-stats,lutfibintoro.github.io)
+
+!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&hide=javascript,html)
+
+!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&langs\_count=8)
+
+!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&layout=compact)
+
+\[!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&layout=donut)](https://github.com/lutfibintoro/github-readme-stats)
+
+\[!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&layout=donut-vertical)](https://github.com/lutfibintoro/github-readme-stats)
+
+\[!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&layout=pie)](https://github.com/lutfibintoro/github-readme-stats)
+
+!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&hide\_progress=true)
+
+!\[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lutfibintoro\&stats\_format=bytes)
+
+\[!\[Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/lutfibintoro/github-readme-stats)
 
