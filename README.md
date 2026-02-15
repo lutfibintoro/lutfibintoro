@@ -11,21 +11,18 @@ ur welcome ;)
 -->
 <a href="https://github.com/lutfibintoro">![lutfibintoro Profile GIF](./gif/my_name_is_lutfi.gif)</a>
 
-<!-- Social icons section -->
+<!-- Social icons section -->#
 <div align="center">
     <h2> 🤝🏻 Let's connect with me. </h2>
     <a href="https://www.linkedin.com/in/mochammad-lutfi-bintoro-syaiful-ba48912a7/">
-        <img src="https://img.shields.io/badge/LINKEDIN-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+        <img src="https://img.shields.io/badge/LINKEDIN-0077b5?style=for-the-badge&logo=html5&logoColor=white">
     </a>
 </div>
-
 <hr>
 
 <!-- Description about me -->
 <h2 align="center"> 💫 About me </h2>
 .
-.
-
 <br><br><br>
 
 <!-- languajes and skills section -->
@@ -50,10 +47,7 @@ ur welcome ;)
 <br>
 
 <!-- GitHub stats section -->
-
-## 📊 Github stats
-
-<!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
+<h2 align="center"> 📊 Github stats </h2>
 <div align="center">
     <a href="https://github.com/lutfibintoro">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lutfibintoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
