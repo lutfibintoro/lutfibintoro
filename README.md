@@ -13,25 +13,23 @@ ur welcome ;)
 
 <!-- Social icons section -->
 <div align="center">
-
-## 🤝🏻 Let's connect with me.
-<a href="https://www.linkedin.com/in/mochammad-lutfi-bintoro-syaiful-ba48912a7/">
-    <img src="https://img.shields.io/badge/LINKEDIN-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
-</a>
-
+    <h2> 🤝🏻 Let's connect with me. </h2>
+    <a href="https://www.linkedin.com/in/mochammad-lutfi-bintoro-syaiful-ba48912a7/">
+        <img src="https://img.shields.io/badge/LINKEDIN-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+    </a>
 </div>
 
 <hr>
 
 <!-- Description about me -->
 <h2 align="center"> 💫 About me </h2>
-
+.
 .
 
 <br><br><br>
 
 <!-- languajes and skills section -->
-<h2 align="center"> 💻 Tech Stack: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> </h2>
+<h2 align="center"> 💻 Tech Stack: </h2>
 <p align="center">
   <code><a href="https://nodejs.org/en"><img alt="Node" title="Node" src="./assets/node.png" height="42"></a></code>
   <code><a href="https://react.dev/"><img alt="React" title="React" src="./assets/react.webp" height="42"></a></code>
