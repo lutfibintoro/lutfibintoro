@@ -14,15 +14,7 @@ ur welcome ;)
 <!-- Social icons section -->
 <h1 align="center"> 🤝🏻 Let's connect with me. </h1>
   <p align="center">
-    <a href="lutfibintoro@gmail.com">
-      <img src="https://img.shields.io/badge/SEND%20MAIL-7cebf5?&style=for-the-badge&logo=MAIL.RU&logoColor=black">
-    </a>
-    <a href="https://www.linkedin.com/in/mochammad-lutfi-bintoro-syaiful-ba48912a7">
-      <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
-    </a>
-    <a href="https://github.com/lutfibintoro">
-      <img src="https://img.shields.io/badge/GITHUB?&style=for-the-badge&logo=github&logoColor=black">
-    </a>
+    ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
   </p>
 </h1>
 
@@ -36,7 +28,7 @@ ur welcome ;)
 <br><br><br>
 
 <!-- languajes and skills section -->
-<h1 align="center"> 💻 Tech Stack: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px> </h1>
+<h1 align="center"> 💻 Tech Stack: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px> </h1>
 <p align="center">
   <code><a href="https://nodejs.org/en"><img alt="Node" title="Node" src="./assets/node.png" height="42"></a></code>
   <code><a href="https://react.dev/"><img alt="React" title="React" src="./assets/react.webp" height="42"></a></code>
@@ -56,26 +48,6 @@ ur welcome ;)
 </p>
 <br>
 
-<h1 align="center"> Languages/Frameworks I'm learning: </h1>
-<p align="center">
-  <code><a href="https://www.djangoproject.com/"><img alt="Django" title="Django" src="./assets/Django-Logo.png" height="42"></a></code>
-  <code><a href="https://docs.nestjs.com/"><img alt="NestJS" title="NestJS" src="./assets/NestJS.png" height="42"></a></code>
-  <code><a href="https://laravel.com/"><img alt="Laravel" title="Laravel" src="./assets/laravel.png" height="42"></a></code>
-  <code><a href="https://spring.io/"><img alt="Spring" title="Spring" src="./assets/spring-logo.png" height="42"></a></code>
-  <code><a href="https://www.java.com/en/"><img alt="Java" title="Java" src="./assets/java.png" height="42"></a></code>
-</p>
-<br>
-
-<h1 align="center"> Environments I work with: </h1>
-<p align="center">
-  <code><a href="https://www.archlinux.org/"><img alt="Arch Linux" title="Arch Linux" src="./assets/arch.png" height="42"></a></code>
-  <code><a href="https://github.com/"><img alt="GitHub" title="GitHub" src="./assets/github.png" height="42"></a></code>
-  <code><a href="https://www.npmjs.com"><img alt="NPM" title="NPM" src="./assets/npm.png" height="42"></a></code>
-  <code><a href="https://classic.yarnpkg.com/en/"><img alt="YARN" title="YARN" src="./assets/yarn.png" height="42"></a></code>
-  <code><a href="https://code.visualstudio.com/"><img alt="Vs code" title="Vs code" src="./assets/vscode.png" height="42"></a></code>
-</p>
-<br>
-
 <!-- GitHub stats section -->
 
 ## 📊 Github stats
@@ -89,33 +61,10 @@ ur welcome ;)
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 
-<!-- Projects section -->
-
-## 📘 My top open source projects
-
-<!-- Bassed on: Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Flowy"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Flowy&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/MascotasOlarte"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=MascotasOlarte&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-  </p>
-  <p align="center">&#8192;</p>
-  <p style="widht: 100%;" align="center">
-    <a href="https://github.com/DavidsDvm/Dev_Exercises"><img align="left" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidsDvm&repo=Dev_Exercises&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&theme=react&border_color=7cebf5&border_radius=10&show_icons=true" alt="readme-typing-svg"></a>
-    <a href="https://github.com/DavidsDvm/EjerciciosSena"><img align="right" width="45%" height="150px" src="https://github-readme-stats.vercel.app/api/pin?username=DavidsDvm&repo=EjerciciosSena&theme=react&border_color=7cebf5&border_radius=10&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true" alt="custom-icon-badges"></a>
-  </p>
-</p>
-
-<p align="center">&#8192;</p>
-<p align="center">&#8192;</p>
-
-<p align="left">
-  <a href="https://github.com/DavidsDvm?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
-</p>
 
 <!-- last activity section -->
 
-## Activity Graph
+## 📊 Activity Graph
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lutfibintoro&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
