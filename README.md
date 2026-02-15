@@ -16,8 +16,7 @@ ur welcome ;)
 
 ## 🤝🏻 Let's connect with me.
 <a href="https://www.linkedin.com/in/mochammad-lutfi-bintoro-syaiful-ba48912a7/">
-
-![LINKEDIN](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+    <img src="https://img.shields.io/badge/LINKEDIN-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
 </a>
 
 </div>
