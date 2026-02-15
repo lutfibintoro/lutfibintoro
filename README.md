@@ -36,7 +36,7 @@ ur welcome ;)
 <br><br><br>
 
 <!-- languajes and skills section -->
-<h1 align="center"> 💻 Tech Stack: </h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px>
+<h1 align="center"> 💻 Tech Stack: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=30px> </h1>
 <p align="center">
   <code><a href="https://nodejs.org/en"><img alt="Node" title="Node" src="./assets/node.png" height="42"></a></code>
   <code><a href="https://react.dev/"><img alt="React" title="React" src="./assets/react.webp" height="42"></a></code>
@@ -116,9 +116,8 @@ ur welcome ;)
 <!-- last activity section -->
 
 ## Activity Graph
-<p align="center">
-  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lutfibintoro&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lutfibintoro&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
