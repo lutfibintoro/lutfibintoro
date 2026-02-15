@@ -54,14 +54,14 @@ ur welcome ;)
 ## 📊 Github stats
 
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=DavidsDvm&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidsDvm&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
-  <br/>
-</p>
+<div align="center">
+    <a href="https://github.com/lutfibintoro">
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lutfibintoro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lutfibintoro&layout=compact&theme=algolia"/>
+    </a>
+</div>
 
-
+<br>
 <!-- last activity section -->
 
 ## 📊 Activity Graph
