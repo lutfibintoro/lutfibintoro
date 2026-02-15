@@ -20,8 +20,8 @@ ur welcome ;)
     <a href="https://www.discord.com/users/1213406960125476936">
         <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
-    <a href="https://www.discord.com/users/1213406960125476936">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    <a href="https://github.com/lutfibintoro">
+        <img src="https://img.shields.io/badge/Discord-white?style=for-the-badge&logo=discord&logoColor=5865F2">
     </a>
 </div>
 <hr>
