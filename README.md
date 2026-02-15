@@ -60,13 +60,9 @@ ur welcome ;)
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lutfibintoro&layout=compact&theme=algolia"/>
     </a>
 </div>
-
 <br>
-<!-- last activity section -->
 
-## 📊 Activity Graph
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lutfibintoro&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![lutfibintoro github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lutfibintoro&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 
