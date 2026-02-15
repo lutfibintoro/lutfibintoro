@@ -18,7 +18,10 @@ ur welcome ;)
         <img src="https://img.shields.io/badge/Linkedin-0077b5?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtka5AAAABlBMVEUAd7X////Ehx2qAAADzElEQVR42u3dQW7qMBSF4RN5kKGXkKVkacnSvJQswcMMLN+nhrSY0kr4HvcZ0P3nfEAcFZsKXcilgMqcXIIcJVQ33wAB1bkSyFC0FECEIl8AAYrcFchQtXwBCarmLyBClf8CAlS5LwDKPoEMZcsJ7FA2nUCEMn8CG5SNJ7BC2XACUHcBMtQtB5Cgbj6AHeqmA4hQ5w9gg7rxAALUuQNYoW44ABB9ABlESwsggWgWyA6iSSARRL4FsIFoFEgAkWsBrCAaWgCg4gFkUC1IoJrRH9hBNfFABJVHf2AD1Yj+QACVewdgBdXwDoBlWZZlWZb1Ei3gmiSDaRCRAKJRRHYQzSLce5CPVu4SsF9RchfBH0DiriH5TTN5FeVSIBaBWwZ3ApFYRW4dvQi3jpMIt45zK0CI+4i7k6QZEIgbkbkVXTsgdgJG+WzvBPh2QOoETO2A3AmY3wkQAwwwoBHwqn8PpicC0qt+tF2B/VU3GGPvTRa/TxzaAYHebNPnBRagjzz0qY0+N9InVxaI7OF7Y4//gf8Gg7wRAO5GSB2/R3LMIhwVi0BcRRB57hoCw3kJqPcAqkECLMuy/rSZ/Fs5nZ/65Md23T8ofPFRPz268Si3iXPxILmUq/6/UOyXxkd3sE7unzWVx7lYsckaipe9yFmq2Oa5KzA8fCj3PwBycc/CY0C6BfwViI8D4xWY5dHj3PQzsFyBrAEGKdIATopWBTBK0aYAvBRFBTBJ0a4AZilKCmCRoqwA5KZ6YJCb1mrAyU2hGhgbA1s14OWmWA1MctNeDcyNgVQH3Je7A0IDa3cgdAe27kDsDuyvD6TuQH59QAwQWV8fCD2A1XNABBYKWG8OHVs1kAE4BtgBgAGOR8wqoDw+E8AKlFcxVgP4yOmBhI8GPbC3AaAHIo4WNbDhaFYD4RuwK4FJDaw48moAjYBRC+TuQMIl1wxIlcDeChi6AbEVgG7A9jzAogSCAbI+DzAboAZgwB8A2QADDDDAAAMMMMAAAwwwwAADDDDAAAMMMMAAAwwwwID3AnwBuF+B9B+AvQTu32DlT3E0QPljoHT/+h78xfWvQHzwF9fL9+cbC/6nigeVb3m741f8ni+edCywch0TLMuyLMuyrKfvDcapsMA7jNVhgXcYr/QGQ666Twp7/XFrCzIJdJ+a139yYP/pifwAyP4zLPkxnPwg0P6zTAVE9EBYeiQtPxSXH8vLDwbmRxPzw5EF6vgB0fyIan5INj+mmx8UTiwDPSydHtfebmB8hip6aH7Lsf0ZipYT0L4HJyWQNGtQAhKUL0D+ARPz3g57Q8k+AAAAAElFTkSuQmCC&logoColor=ffffff">
     </a>
     <a href="https://www.discord.com/users/1213406960125476936">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
+    </a>
+    <a href="https://www.discord.com/users/1213406960125476936">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
     </a>
 </div>
 <hr>
