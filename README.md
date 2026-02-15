@@ -34,30 +34,30 @@ ur welcome ;)
 <!-- languajes and skills section -->
 <h2 align="center"> 💻 Tech Stack: </h2>
 <p align="center">
-  <code><a href=""><img alt="" title="" src="./image/c-sharp.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/NET_Core_Logo.svg.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/asp_net_core.jpg" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/ef_core.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/SignalR.jpg" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/Laravel-Logo.wine.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/sql-server.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/mysql.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/php_logo.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/cloudflare.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/elastic-elasticsearch-logo-svg-vector.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/Git-Icon-1788C.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/postman-api-platform-logo-png_seeklogo-446859.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/node_js.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/html.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/css-3.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/js.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/typescript.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/NuGet_project_logo.svg.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/phpmy_admin.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/jquery.webp" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/tailwind.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/visual studio.png" height="42"></a></code>
-  <code><a href=""><img alt="" title="" src="./image/visual studio code-stable.png" height="42"></a></code>
+  <code><a href=""><img alt="" title="" src="./image/c-sharp.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/NET_Core_Logo.svg.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/asp_net_core.jpg" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/ef_core.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/SignalR.jpg" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/Laravel-Logo.wine.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/sql-server.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/mysql.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/php_logo.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/cloudflare.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/elastic-elasticsearch-logo-svg-vector.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/Git-Icon-1788C.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/postman-api-platform-logo-png_seeklogo-446859.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/node_js.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/html.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/css-3.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/js.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/typescript.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/NuGet_project_logo.svg.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/phpmy_admin.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/jquery.webp" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/tailwind.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/visual studio.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/visual studio code-stable.png" height="42"></a></code> 
 </p>
 <br>
 
