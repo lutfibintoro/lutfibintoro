@@ -21,7 +21,7 @@ ur welcome ;)
       <img src="https://img.shields.io/badge/linkedin-7cebf5?&style=for-the-badge&logo=linkedin&logoColor=black">
     </a>
     <a href="https://github.com/lutfibintoro">
-      <img src="https://img.shields.io/badge/GITHUB?logo=github&logoColor=black">
+      <img src="https://img.shields.io/badge/GITHUB?&style=for-the-badge&logo=github&logoColor=black">
     </a>
   </p>
 </h1>
