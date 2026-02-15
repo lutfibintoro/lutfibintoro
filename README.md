@@ -13,7 +13,7 @@ ur welcome ;)
 
 <!-- Social icons section -->
 <h1 align="center"> 🤝🏻 Let's connect with me. </h1>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@CodeWhiteWeb)
 
 <hr>
 
