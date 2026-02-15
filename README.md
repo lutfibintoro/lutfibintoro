@@ -117,7 +117,7 @@ ur welcome ;)
 
 ## Activity Graph
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%"/>
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lutfibintoro&theme=high-contrast)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
 
 <br>
