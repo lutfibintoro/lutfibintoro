@@ -37,7 +37,7 @@ Memiliki pemahaman yang baik dalam pengelolaan database relasional seperti MySQL
 <p>
 Memiliki keinginan besar untuk berkembang dan terus belajar. serta memiliki tujuan untuk memberikan kontribusi nyata dalam pengembangan sistem yang andal dan berkelanjutan.
 </p>
-<br><br><br>
+<br>
 
 <!-- languajes and skills section -->
 <h2 align="center"> 💻 Tech Stack: </h2>
