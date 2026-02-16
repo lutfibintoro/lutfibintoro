@@ -28,7 +28,11 @@ ur welcome ;)
 
 <!-- Description about me -->
 <h2 align="center"> 💫 About me </h2>
-.
+Mahasiswa Semester 6 Jurusan Informatika Universitas Mercu Buana Yogyakarta dengan IPK -,--. Menguasai pengembangan full-stack menggunakan ekosistem .NET, termasuk ASP.NET Core, MVC dan Entity Framework Core, serta berpengalaman dalam membangun RESTful API yang terstruktur dan scalable dengan penerapan Clean Architecture dan Dependency Injection.
+<br>
+Memiliki pemahaman yang baik dalam pengelolaan database relasional seperti MySQL dan SQL Server, serta terbiasa menerapkan praktik pengembangan yang berorientasi pada performa dan maintainability.
+<br>
+Memiliki keinginan besar untuk berkembang dan terus belajar. serta memiliki tujuan untuk memberikan kontribusi nyata dalam pengembangan sistem yang andal dan berkelanjutan.
 <br><br><br>
 
 <!-- languajes and skills section -->
