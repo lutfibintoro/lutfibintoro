@@ -1,14 +1,5 @@
 
-<!-- 
-GIF SECTION
-
-If you wanna know how i made this gif
-
-I made this with my repo: (https://github.com/DavidsDvm/GitHub_ProfileReadmeGIF)
-There i made and page with the GIF content, later i record my screen with OBS
-after that i converter the video from mp4 to gif
-ur welcome ;) 
--->
+<!-- GIF SECTION -->
 <a href="https://github.com/lutfibintoro">![lutfibintoro Profile GIF](./gif/my_name_is_lutfi.gif)</a>
 
 <!-- Social icons section -->
@@ -28,14 +19,14 @@ ur welcome ;)
 
 <!-- Description about me -->
 <h2 align="center"> 💫 About me </h2>
-<p>
-Mahasiswa Semester 6 Jurusan Informatika Universitas Mercu Buana Yogyakarta dengan IPK -,--. Menguasai pengembangan full-stack menggunakan ekosistem .NET, termasuk ASP.NET Core, MVC dan Entity Framework Core, serta berpengalaman dalam membangun RESTful API yang terstruktur dan scalable dengan penerapan Clean Architecture dan Dependency Injection.
+<p align="center">
+    Mahasiswa Semester 6 Jurusan Informatika Universitas Mercu Buana Yogyakarta dengan IPK -,--. Menguasai pengembangan full-stack menggunakan ekosistem .NET, termasuk ASP.NET Core, MVC dan Entity Framework Core, serta berpengalaman dalam membangun RESTful API yang terstruktur dan scalable dengan penerapan Clean Architecture dan Dependency Injection.
 </p>
-<p>
-Memiliki pemahaman yang baik dalam pengelolaan database relasional seperti MySQL dan SQL Server, serta terbiasa menerapkan praktik pengembangan yang berorientasi pada performa dan maintainability.
+<p align="center">
+    Memiliki pemahaman yang baik dalam pengelolaan database relasional seperti MySQL dan SQL Server, serta terbiasa menerapkan praktik pengembangan yang berorientasi pada performa dan maintainability.
 </p>
-<p>
-Memiliki keinginan besar untuk berkembang dan terus belajar. serta memiliki tujuan untuk memberikan kontribusi nyata dalam pengembangan sistem yang andal dan berkelanjutan.
+<p align="center">
+    Memiliki keinginan besar untuk berkembang dan terus belajar. serta memiliki tujuan untuk memberikan kontribusi nyata dalam pengembangan sistem yang andal dan berkelanjutan.
 </p>
 <br>
 
