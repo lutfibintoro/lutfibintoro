@@ -41,6 +41,7 @@
   <code><a href=""><img alt="" title="" src="./image/Laravel-Logo.wine.png" height="42"></a></code> 
   <code><a href=""><img alt="" title="" src="./image/sql-server.png" height="42"></a></code> 
   <code><a href=""><img alt="" title="" src="./image/mysql.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/SQLite.png" height="42"></a></code> 
   <code><a href=""><img alt="" title="" src="./image/php_logo.png" height="42"></a></code> 
   <code><a href=""><img alt="" title="" src="./image/cloudflare.png" height="42"></a></code> 
   <code><a href=""><img alt="" title="" src="./image/elastic-elasticsearch-logo-svg-vector.png" height="42"></a></code> 
@@ -76,7 +77,7 @@
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Monday, 16 February 2026 at 8:51 AM GMT+7</b>
+Last refresh: <b>Monday, 18 February 2026 at 8:09 AM GMT+7</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
