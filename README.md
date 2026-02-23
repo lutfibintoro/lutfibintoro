@@ -33,7 +33,8 @@
 <!-- languajes and skills section -->
 <h2 align="center"> 💻 Tech Stack: </h2>
 <p align="center">
-  <code><a href=""><img alt="" title="" src="./image/c-sharp.png" height="42"></a></code> 
+  <code><a href=""><img alt="" title="" src="./image/c-sharp.png" height="42"></a></code>
+  <code><a href=""><img alt="" title="" src="./image/Microsoft_.NET_logo.svg.png" height="42"></a></code> 
   <code><a href=""><img alt="" title="" src="./image/NET_Core_Logo.svg.png" height="42"></a></code> 
   <code><a href=""><img alt="" title="" src="./image/asp_net_core.jpg" height="42"></a></code> 
   <code><a href=""><img alt="" title="" src="./image/ef_core.png" height="42"></a></code> 
