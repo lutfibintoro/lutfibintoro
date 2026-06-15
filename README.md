@@ -20,7 +20,7 @@
 <!-- Description about me -->
 <h2 align="center"> 💫 About me </h2>
 <p align="center">
-    Mahasiswa Semester 6 Jurusan Informatika Universitas Mercu Buana Yogyakarta dengan IPK 3,77. Menguasai pengembangan full-stack menggunakan ekosistem .NET, termasuk ASP.NET Core, MVC dan Entity Framework Core, serta berpengalaman dalam membangun RESTful API yang terstruktur dan scalable dengan penerapan Clean Architecture dan Dependency Injection.
+    Mahasiswa Semester 6 Jurusan Informatika Universitas Mercu Buana Yogyakarta dengan IPK 3,77. Menguasai pengembangan full-stack menggunakan ekosistem .NET, termasuk ASP.NET Core, MVC dan Entity Framework Core, serta berpengalaman dalam membangun RESTful API yang terstruktur dan scalable dengan penerapan Vertical Slice Architecture, Traditional Layered Architecture dan Dependency Injection.
 </p>
 <p align="center">
     Memiliki pemahaman yang baik dalam pengelolaan database relasional seperti MySQL dan SQL Server, serta terbiasa menerapkan praktik pengembangan yang berorientasi pada performa dan maintainability.
@@ -78,7 +78,7 @@
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Monday, 18 February 2026 at 8:09 AM GMT+7</b>
+Last refresh: <b>Monday, 15 July 2026 at 8:09 AM GMT+7</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
