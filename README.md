@@ -73,13 +73,13 @@
 <br>
 
 [![lutfibintoro github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lutfibintoro&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
-[![GitHub Streak](https://streak-stats.demolab.com?user=lutfibintoro&theme=algolia)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=lutfibintoro&theme=algolia)](https://git.io/streak-stats) -->
 
 <br>
 
 <!-- last refresh of readme section -->
 
-Last refresh: <b>Sunday, 08 November 2026 at 11:48 UTC+7</b>
+Last refresh: <b>Sunday, 14 November 2026 at 07:50 UTC+7</b>
 
 <!---
 DavidsDvm/DavidsDvm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
